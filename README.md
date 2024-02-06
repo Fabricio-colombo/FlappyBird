@@ -35,17 +35,18 @@ IMAGES_BIRD = [
     pygame.transform.scale2x(pygame.image.load('e:\\DESKTOP_2\\FlappyBird\\Projeto_Flappy_Bird\\imgs\\bird3.png')),
 ]
 
-This modification allows developers to easily customize the image paths according to their directory structure or preferences.
 
-### How to Use the Project
-To use this project, follow these steps:
+#This modification allows developers to easily customize the image paths according to their directory structure or preferences.
 
-Make sure you have Python and the Pygame library installed on your system.
-Clone this repository to your computer.
-Open a terminal in the folder where the project is located.
-Execute the FlappyBird.py file using the command python FlappyBird.py.
-Contribution
-Feel free to contribute improvements or modifications to this project. If you wish to replace the os library with absolute paths in other parts of the code, you are welcome to do so and submit a pull request.
+#How to Use the Project
+#To use this project, follow these steps:
 
-License
-This project is distributed under the MIT License.
+#Make sure you have Python and the Pygame library installed on your system.
+#Clone this repository to your computer.
+#Open a terminal in the folder where the project is located.
+#Execute the FlappyBird.py file using the command python FlappyBird.py.
+#Contribution
+#Feel free to contribute improvements or modifications to this project. If you wish to replace the os library with absolute paths in other parts of the code, you are welcome to do so and submit a pull request.
+
+#License
+#This project is distributed under the MIT License.
